@@ -25,24 +25,3 @@ body {
   }
 }
 
-::-webkit-scrollbar {
-  height: 8px;
-}
-
-::-webkit-scrollbar-track {
-  background: #1d232a; 
-}
-
-::-webkit-scrollbar-thumb {
-  background: #656e74; /* slate-600 */
-  border-radius: 4px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: rgb(100, 116, 139); /* slate-500 */
-}
-
-/* Firefox */
-* {
-  scrollbar-color: #656e74 #1d232a;
-}

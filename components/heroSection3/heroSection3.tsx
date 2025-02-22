@@ -14,7 +14,9 @@ const HeroSection3 = () => {
         <div>
           <h3 className="text-[18px] font-lato font-semibold mb-1">Browse</h3>
           <p className="text-[#CCCFD6] font-lato font-normal text-[16px]">
-            Discover activities from our partner <br className="block md:hidden" /> booking providers.
+            Discover activities from our partner&nbsp; 
+            {/* <br className="block md:hidden" /> */}
+             booking providers.
           </p>
         </div>
       </div>
@@ -27,7 +29,9 @@ const HeroSection3 = () => {
         <div>
           <h3 className="text-[18px] font-lato font-semibold mb-1">Build</h3>
           <p className="text-[#CCCFD6] font-lato font-normal text-[16px]">
-            Share your child’s interests,<br className="block md:hidden" /> schedule, and preferences. Watch as
+            Share your child’s interests,&nbsp;
+            {/* <br className="block md:hidden" /> */}
+             schedule, and preferences. Watch as
             JustLiv creates the perfect calendar filled with activities.
           </p>
         </div>
@@ -46,7 +50,9 @@ const HeroSection3 = () => {
         <div>
           <h3 className="text-[18px] font-lato font-semibold mb-1">Book</h3>
           <p className="text-[#CCCFD6] font-lato font-normal text-[16px]">
-            Finalize your selections with one <br className="block md:hidden" /> click and enjoy peace of mind.
+            Finalize your selections with one&nbsp; 
+            {/* <br className="block md:hidden" /> */}
+             click and enjoy peace of mind.
           </p>
         </div>
         <img
