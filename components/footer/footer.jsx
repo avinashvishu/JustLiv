@@ -9,7 +9,7 @@ const Footer = () => {
           <img src="/logo1.png" alt="JustLiv Logo" className="w-28" />
         </div>
         <p className="mb-4 flex justify-center items-center space-x-2">
-          <Instagram height={20} width={20} className="text-white"/>
+          <Instagram height={24} width={24} className="text-white"/>
           <span className="text-white text-[16px] font-medium font-lato">
             <a
               href="https://www.instagram.com/justlivatx?igsh=MWo3czd1MXh3cQ%3D%3D&utm_source=qr"
@@ -39,7 +39,7 @@ const Footer = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Linkedin height={20} width={20} className="text-white"/>
+              <Linkedin height={24} width={24} className="text-white"/>
             </a>
           </p>
           <p className="text-white text-[16px] font-normal font-lato">© 2024 by JustLiv</p>
